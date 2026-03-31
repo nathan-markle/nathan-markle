@@ -1,22 +1,5 @@
-## Hi there 👋
-
-<!--
-**nathan-markle/nathan-markle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathan-markle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-</p>   
-<p>
-  <a href="https://github.com/nathan-markle/nathan-markle"><img alt="nathan's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-markle&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
-</p>
+interests
+- software engineering
+  - rust🦀, python🐍
+- security engineering
+- reverse engineering
